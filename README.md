@@ -1,4 +1,4 @@
-# DIY_intranet
+# bikeFreq
 A homemade mesh network for finding friends and exploring the urban outdoors during a pandemic.
 
 ## Project Scope
