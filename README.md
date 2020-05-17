@@ -1,13 +1,7 @@
-# bikeFreq
-A homemade network for finding friends and exploring the urban outdoors during a pandemic.
+**bikeFreq** is a homemade, networked game for finding friends and exploring the outdoors.
 
-## Project Scope
-**bikeFreq** seeks to create a functioning mesh network and explore the use cases of such a network in a social, urban environment.  
-**bikeFreq** is a branch of the Cooper Union seminar [_The Street Finds its Own Uses for Things_](https://en.wikipedia.org/wiki/Street).
+The game operates on the LoRa protocol's license-free sub-gigahertz radio frequency band using low-powered Arduino development boards mounted on bicycles. The game and related research was developed under the umbrella of [The Street Finds Its Own Uses For Things](https://www.tsfiouft.com), a seminar at [The Cooper Union](https://www.cooper.edu).
 
-## LoRa
-The project makes use of LoRa, a **Lo**ng **Ra**nge, low-power wide-area network protocol, to transmit and recieve information over a distance of several city blocks. LoRa transmits messages via specific radio frequency ranges. This project's testing was performed in New York City, so the North American frequency band was used. This frequency band is nominally the 915MHz band, but is composed of a radio frequency range from 902 to 928 MHz.  
+This project was developed during the COVID-19 pandemic in New York City.
 
-**bikeFreq** seeks ways of utilizing this frequency band at street level for urban communication and friendfinding.
-
-Read more over at the [wiki](https://github.com/dailybicycle/bikeFreq/wiki).
+Read more at the [wiki](https://github.com/dailybicycle/bikeFreq/wiki).
